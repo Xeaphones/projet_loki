@@ -1,3 +1,8 @@
+# Explication du projet
+
+Pour ce projet "Monitoring" nous avons choisis d'utiliser la stack Grafana, Promeheuse et Loki (accompagné de cAdvisor afin de monitorer des containers docker).
+Pour lancer le projet il suffit juste de cloner le projet et lancer un docker compose up.
+
 # Étapes de configuration
 
 ## 1. Préparer les fichiers de configuration de Prometheus
